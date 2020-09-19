@@ -1,0 +1,45 @@
+---
+title : "ListenAndReadAlong:American History - Part 107 - Lincoln - Sherman burns Atlanta - Splits South "
+title2 : "American History - Part 107 - Lincoln - Sherman burns Atlanta - Splits South "
+info2 : "Welcome to THE MAKING OF A NATION -- American history in VOA Special English. In the East, Union armies were slowly pushing forward toward their main target. That was the Confederate capital at Richmond, Virginia. In the West, Union armies were slowly pushing deeper into Confederate territory. The western armies were led by General William Sherman. Sherman had two goals. One was to capture the city of Atlanta, Georgia. Atlanta was one of the few remaining industrial cities of the Confederacy. The other goal was to destroy the Confederate army led by General Joe Johnston. Sherman s army was stronger than Johnston s army. But the Confederates usually got into better defensive positions. Sherman refused to attack in such situations. It was easier to march around the Confederates and force them to withdraw. This happened again and again. Confederate President Jefferson Davis began to believe that General Johnston was afraid to fight. He replaced him with another general. Within two days, that general attacked the Union Army. The attack began without enough planning. It was based on false information. It was a disaster. In eleven days of fighting, one-third of the Confederate Army in Georgia was destroyed. The remaining force was too weak to defend Atlanta. The city fell. After capturing Atlanta, General Sherman fought a series of small battles with a Confederate force across northern Georgia. Then he decided to march to Savannah, a city on the Atlantic coast. Before leaving, his men set fire to the city. Almost all of Atlanta was destroyed. Sherman s army would continue to do this all the way to Savannah, Georgia, three hundred fifty kilometers away. It cut a path of destruction more than one hundred kilometers wide. This campaign would be known as Sherman s March to the Sea. Sherman said he wanted to make the people of Georgia suffer. He said he wanted to show the people of the Confederacy that their government could not protect them. Union soldiers stopped at every farm and village. They took food and clothing. They took horses, cows, and other farm animals. What they could not take, or did not want, they destroyed. They set fire to houses and farm buildings. They burned crops. They destroyed stores and factories. They burned bridges and pulled up railroad tracks. Day by day, the Union army of General William Sherman cut and burned its way across Georgia. The army faced little opposition. Small groups of Confederate horse soldiers struck at the edges of the army. But they did little damage. On December twenty-second, eighteen sixty-four, Sherman reached Savannah. He sent a message to President Abraham Lincoln in Washington. He    I beg to present you, as a Christmas holiday gift, the city of Savannah.  Sherman s campaign had cut a great wound in the heart of the Confederacy. All that remained were the states of South Carolina, North Carolina, and Virginia. His march to the sea had a great, destructive effect on the spirit of the South. Sherman s army rested in Savannah for a month. Then, on February first, eighteen sixty-five, it began to move north. The goal was to join General Ulysses Grant outside the Confederate capital at Richmond, Virginia. As Sherman s army moved across South Carolina, it destroyed almost everything in sight. The soldiers remembered that South Carolina had been the first state to rebel and leave the Union. They remembered that South Carolina had fired the first shots of the war. This time -- against orders -- they destroyed the land they left behind. Confederate forces could not stop them. http://learningenglish.voanews.com/content/a-23-2009-12-02-voa2-83142827/115707.html this is a VOA product in the public domain "
+date:        2020-09-18T07:53:56-07:00
+author:
+ - youtube_ListenAndReadAlong
+tags:
+ - youtube
+ - ListenAndReadAlong
+ - youtube_ListenAndReadAlong
+ - 2020_09
+ - 2020_0918
+ - 2020_0918_07
+categories:
+ - 2020_0918
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="ListenAndReadAlong:Welcome to THE MAKING OF A NATION -- American history in VOA Special English. In the East, Union armies were slowly pushing forward toward their main target. That was the Confederate capital at Richmond, Virginia. In the West, Union armies were slowly pushing deeper into Confederate territory. The western armies were led by General William Sherman. Sherman had two goals. One was to capture the city of Atlanta, Georgia. Atlanta was one of the few remaining industrial cities of the Confederacy. The other goal was to destroy the Confederate army led by General Joe Johnston. Sherman s army was stronger than Johnston s army. But the Confederates usually got into better defensive positions. Sherman refused to attack in such situations. It was easier to march around the Confederates and force them to withdraw. This happened again and again. Confederate President Jefferson Davis began to believe that General Johnston was afraid to fight. He replaced him with another general. Within two days, that general attacked the Union Army. The attack began without enough planning. It was based on false information. It was a disaster. In eleven days of fighting, one-third of the Confederate Army in Georgia was destroyed. The remaining force was too weak to defend Atlanta. The city fell. After capturing Atlanta, General Sherman fought a series of small battles with a Confederate force across northern Georgia. Then he decided to march to Savannah, a city on the Atlantic coast. Before leaving, his men set fire to the city. Almost all of Atlanta was destroyed. Sherman s army would continue to do this all the way to Savannah, Georgia, three hundred fifty kilometers away. It cut a path of destruction more than one hundred kilometers wide. This campaign would be known as Sherman s March to the Sea. Sherman said he wanted to make the people of Georgia suffer. He said he wanted to show the people of the Confederacy that their government could not protect them. Union soldiers stopped at every farm and village. They took food and clothing. They took horses, cows, and other farm animals. What they could not take, or did not want, they destroyed. They set fire to houses and farm buildings. They burned crops. They destroyed stores and factories. They burned bridges and pulled up railroad tracks. Day by day, the Union army of General William Sherman cut and burned its way across Georgia. The army faced little opposition. Small groups of Confederate horse soldiers struck at the edges of the army. But they did little damage. On December twenty-second, eighteen sixty-four, Sherman reached Savannah. He sent a message to President Abraham Lincoln in Washington. He    I beg to present you, as a Christmas holiday gift, the city of Savannah.  Sherman s campaign had cut a great wound in the heart of the Confederacy. All that remained were the states of South Carolina, North Carolina, and Virginia. His march to the sea had a great, destructive effect on the spirit of the South. Sherman s army rested in Savannah for a month. Then, on February first, eighteen sixty-five, it began to move north. The goal was to join General Ulysses Grant outside the Confederate capital at Richmond, Virginia. As Sherman s army moved across South Carolina, it destroyed almost everything in sight. The soldiers remembered that South Carolina had been the first state to rebel and leave the Union. They remembered that South Carolina had fired the first shots of the war. This time -- against orders -- they destroyed the land they left behind. Confederate forces could not stop them. http://learningenglish.voanews.com/content/a-23-2009-12-02-voa2-83142827/115707.html this is a VOA product in the public domain "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20130620_dnccqdpnmnu.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="ListenAndReadAlong:American History - Part 107 - Lincoln - Sherman burns Atlanta - Splits South "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=dNCCqdpnmnU"
+>}}
+
+
+<br>
+
+{{< my2buttoncopy2clip "music.xspf"        "blue"   "red"    " 单曲 "  "复制 VLC 播放器使用的链接：单曲" >}} {{< my2buttoncopy2clip "/all.xspf"         "green"  "black"  " 全部 "  "复制 VLC 播放器使用的链接：全部" >}} {{< my2buttoncopy2clip "music.m3u8"        "blue"   "red"    " M3U  "    "复制 M3U 播放器使用的链接：单曲" >}} {{< mybr2 >}} {{< my2buttoncopy2clip ""                  "green"  "black"  " 本页 "    "复制 本页的网址 " >}} {{< my2buttoncopy2clip "/"                 "black"  "red"    " 主站 "    "复制 主站的网址 " >}} {{< mybr2 >}} {{< my2buttongoto      "/hot/endothers/"   "blue"   "red"    " 月份"   "转到月份总目录" >}} {{< my2buttongoto      "/hot/alltags/"     "green"  "blue"   " 列表"   "转到文章总列表" >}} {{< my2buttongoto      "/hot/helpxspf/"    "green"  "blue"   " 播放器" "如何使用 VLC 播放器或者 IPTV 播放器的教程" >}} 
